@@ -168,7 +168,7 @@ The following projects and branches were tested together:
   * git clone https://github.com/clydemcqueen/flock2.git
 
 ## Credits
-
+Original forked github creator: https://github.com/clydemcqueen
 The h264decoder is from: https://github.com/DaWelter/h264decoder
 
 ## Resources
